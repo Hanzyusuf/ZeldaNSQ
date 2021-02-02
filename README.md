@@ -5,6 +5,9 @@ This is built on the latest commits of the original port by usineur, I have simp
 
 This version allows link to move in 8-axis and also fixes other minor bugs.
 
+## VPK
+For the vpk, head over to the release section: https://github.com/Hanzyusuf/ZeldaNSQ/releases
+
 ## Credits
 Latest version is available [here](https://github.com/usineur/ZeldaNSQ/releases).
 
