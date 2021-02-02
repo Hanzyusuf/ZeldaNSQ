@@ -1,6 +1,10 @@
 # Port of Zelda Navi's Quest for PS Vita
 
-## VPK
+## Note
+This is built on the latest commits of the original port by usineur, I have compiled and released this as a vpk.
+This version allows link to move in 8-axis and also fixes other minor bugs.
+
+## Credits
 Latest version is available [here](https://github.com/usineur/ZeldaNSQ/releases).
 
 Note: saves can be found in `ux0:data/znsq/saves` directory.
@@ -28,7 +32,7 @@ Note: saves can be found in `ux0:data/znsq/saves` directory.
 | Start | Save quit |
 
 ## Credits:
-
+- Matthieu Milan, for the original port (https://github.com/usineur) (check out his other ports!)
 - Vincent Jouillat, for [Original game](http://www.zeldaroth.fr/us/dlnsq.php)
 
 ## Changelog:
