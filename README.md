@@ -1,9 +1,9 @@
 # Port of Zelda Navi's Quest for PS Vita
 
 ## Note
-This is built on the latest commits of the original port by usineur, I have simply compiled and released this as a vpk.
+This fork was made to allow link to move in 8-axis.
 
-This version allows link to move in 8-axis and also fixes other minor bugs.
+Check out the original port here: https://github.com/usineur
 
 ## VPK
 For the vpk, head over to the release section: https://github.com/Hanzyusuf/ZeldaNSQ/releases
